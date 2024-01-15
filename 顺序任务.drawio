@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T18:27:29.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oxFORD6ATrJBmTcM8i-7" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T18:29:27.683Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zqg0Q1cto4jpFeGwJyGA" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2533" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-5" value="任务实例ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="90" height="70" as="geometry" />
+          <mxGeometry x="430" y="230" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-6" value="任务状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="90" height="70" as="geometry" />
+          <mxGeometry x="324" y="280" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-9">
           <mxGeometry relative="1" as="geometry" />
@@ -59,11 +59,17 @@
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-8" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-9" value="父任务列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="90" height="70" as="geometry" />
+          <mxGeometry x="218" y="320" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-11" value="任务业务参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="290" width="90" height="70" as="geometry" />
@@ -72,19 +78,19 @@
           <mxGeometry x="-90" y="220" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-14" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="110" width="90" height="70" as="geometry" />
+          <mxGeometry x="-140" y="110" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-15" value="被分配时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-50" width="90" height="70" as="geometry" />
+          <mxGeometry x="30" y="-120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-16" value="任务执行时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="10" width="90" height="70" as="geometry" />
+          <mxGeometry x="340" y="-100" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-17" value="执行pod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-50" width="90" height="70" as="geometry" />
+          <mxGeometry x="260" y="-140" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-18" value="被分配pod" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-60" width="90" height="70" as="geometry" />
+          <mxGeometry x="150" y="-150" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-25" target="BF8SNdvl5e7O7KOmZN9e-31">
           <mxGeometry relative="1" as="geometry" />
@@ -183,7 +189,7 @@
           <mxGeometry x="-132" y="540" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-47" value="任务模板ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="90" height="70" as="geometry" />
+          <mxGeometry x="440" y="150" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-49" value="任务模板ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="440" width="90" height="70" as="geometry" />
@@ -204,13 +210,22 @@
           <mxGeometry x="120" y="370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-67" value="被触发时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="10" width="90" height="70" as="geometry" />
+          <mxGeometry x="-80" y="-50" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-70" value="任务结果回写时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="30" width="90" height="70" as="geometry" />
+          <mxGeometry x="-140" y="20" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-72" value="任务结果回写时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="740" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-74" value="任务最大重试次数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-684" y="180" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-75" value="任务最大重试次数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-50" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-76" value="任务当前执行次数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="30" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
