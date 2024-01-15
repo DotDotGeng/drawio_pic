@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:04:39.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gzogJui9avlEWc94xeOa" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:05:37.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9FmJQ6MPZbtfKCImsjcI" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2021" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-16" value="上次执行时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-40" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BF8SNdvl5e7O7KOmZN9e-17" value="执行pod标识&lt;br&gt;（ip+线程id）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-17" value="执行pod标识&lt;br&gt;（如：IP）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-40" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
