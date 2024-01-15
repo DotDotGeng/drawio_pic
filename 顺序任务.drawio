@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:20:06.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OBtvTZDMzj1Jx_ybU2gJ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:20:28.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oCw651ULBqzY_gxs-mU7" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2021" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,6 +115,9 @@
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-38" value="任务实例Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-39" value="执行ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
