@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:15:46.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tEPmOZnk0phZxc8hHQNE" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:16:38.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8INRH3sn4T1cMWUbLyYQ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2021" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,10 @@
           <mxGeometry x="360" y="480" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-27" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="570" width="90" height="70" as="geometry" />
+          <mxGeometry x="360" y="600" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-28" value="任务id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
