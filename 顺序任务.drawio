@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:20:42.844Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QBEqOPCzOdJ65DpFEGyz" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T17:24:03.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="30zWOaFMInuQRXPq5AOI" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2021" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-5" value="任务实例ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="135" width="90" height="70" as="geometry" />
+          <mxGeometry x="380" y="170" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-6" value="任务状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="90" height="70" as="geometry" />
@@ -45,6 +45,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BF8SNdvl5e7O7KOmZN9e-8" target="BF8SNdvl5e7O7KOmZN9e-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-8" value="任务实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -114,10 +117,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BF8SNdvl5e7O7KOmZN9e-38" value="任务实例Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BF8SNdvl5e7O7KOmZN9e-39" value="执行ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-40" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="780" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-41" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="880" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-42" value="执行ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1010" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-43" value="执行时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1050" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-44" value="执行状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1080" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-45" value="执行状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="1000" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-46" value="执行错误信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="880" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BF8SNdvl5e7O7KOmZN9e-47" value="任务模板ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
