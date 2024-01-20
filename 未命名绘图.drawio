@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T07:54:19.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LmUbkxVxhTh0XJzC9XUR" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T07:54:32.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0t7Sjd5O0k_MzW1EvhHw" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ybNxYORSMb3ddXj-I2fQ">
-    <mxGraphModel dx="1038" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="_RAc-geunidcbRqjyPNE-1" value="任务触发器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_RAc-geunidcbRqjyPNE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_RAc-geunidcbRqjyPNE-2" target="_RAc-geunidcbRqjyPNE-4">
+        <mxCell id="_RAc-geunidcbRqjyPNE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_RAc-geunidcbRqjyPNE-2" target="_RAc-geunidcbRqjyPNE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_RAc-geunidcbRqjyPNE-2" value="工作流&lt;br&gt;（Workflow）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
