@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T07:50:56.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DoCvf9dj8pgiJwr1qLEv" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T07:51:47.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Uo8hs6qjL5758QKHAukt" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ybNxYORSMb3ddXj-I2fQ">
     <mxGraphModel dx="1038" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_RAc-geunidcbRqjyPNE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_RAc-geunidcbRqjyPNE-1" target="_RAc-geunidcbRqjyPNE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_RAc-geunidcbRqjyPNE-1" value="任务触发器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_RAc-geunidcbRqjyPNE-2" value="工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
