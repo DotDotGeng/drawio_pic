@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T16:23:34.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="I7nQCzuGafUtqZsv7Q4j" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T16:27:05.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p300Uw02k_EXWXBoGLCT" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
     <mxGraphModel dx="2998" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -485,6 +485,9 @@
         <mxCell id="8EcwPYy6TK1mYzknZgef-122" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8EcwPYy6TK1mYzknZgef-112" target="8EcwPYy6TK1mYzknZgef-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8EcwPYy6TK1mYzknZgef-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8EcwPYy6TK1mYzknZgef-112" target="8EcwPYy6TK1mYzknZgef-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8EcwPYy6TK1mYzknZgef-112" value="父节点分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="842" y="1315" width="120" height="60" as="geometry" />
         </mxCell>
@@ -492,7 +495,7 @@
           <mxGeometry x="728.5" y="1485" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8EcwPYy6TK1mYzknZgef-114" value="分组名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="1485" width="90" height="70" as="geometry" />
+          <mxGeometry x="910" y="1485" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8EcwPYy6TK1mYzknZgef-115" value="父任务组内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682" y="1150" width="90" height="70" as="geometry" />
@@ -508,6 +511,9 @@
         </mxCell>
         <mxCell id="8EcwPYy6TK1mYzknZgef-124" value="分组" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1345" width="132" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EcwPYy6TK1mYzknZgef-127" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;工作流&lt;/font&gt;dag&lt;font face=&quot;宋体&quot;&gt;名称&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1485" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
