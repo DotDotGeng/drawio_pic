@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T18:16:19.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8ZastyUBoDrhX6GTjcwD" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T18:17:32.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="621TXN5_NrpFnVkNhK8W" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_XUrh3UBLOdG2CLPe91Y">
     <mxGraphModel dx="1194" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-7" value="锁n&lt;br&gt;（任务上下文n）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="215" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_SiXs5mkcGYst8uzlgKZ-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="695" y="55" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_SiXs5mkcGYst8uzlgKZ-9" value="按照任务名称任务排序，按照顺序获取锁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="160" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
