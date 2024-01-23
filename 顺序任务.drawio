@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T16:33:38.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ER6IVfe1hzIFVOF1gMs1" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T16:50:35.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ktC6s4DF0jkfde7wjQUM" version="22.1.18" type="github">
   <diagram name="第 1 页" id="u92MrwEAKFm2taZTLTK-">
-    <mxGraphModel dx="2998" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3812" dy="2684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,6 +526,12 @@
         </mxCell>
         <mxCell id="8EcwPYy6TK1mYzknZgef-131" value="最近完成时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-52" y="520" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8EcwPYy6TK1mYzknZgef-133" value="工作流触发器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EcwPYy6TK1mYzknZgef-134" value="任务触发器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="783" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
