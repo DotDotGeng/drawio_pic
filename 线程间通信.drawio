@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T18:21:42.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ih3vfbuGG2xdVOxxzEWH" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T18:22:17.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xU56Y_L9Qm_E0UUxaiGu" version="22.1.18" type="github">
   <diagram name="第 1 页" id="_XUrh3UBLOdG2CLPe91Y">
     <mxGraphModel dx="1194" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_SiXs5mkcGYst8uzlgKZ-13" target="_SiXs5mkcGYst8uzlgKZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_SiXs5mkcGYst8uzlgKZ-19" value="notify" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_SiXs5mkcGYst8uzlgKZ-18">
+        <mxCell id="_SiXs5mkcGYst8uzlgKZ-19" value="notifyAll" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_SiXs5mkcGYst8uzlgKZ-18">
           <mxGeometry x="-0.0909" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="100" height="400" as="geometry" />
+          <mxGeometry x="190" y="40" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_SiXs5mkcGYst8uzlgKZ-1" target="_SiXs5mkcGYst8uzlgKZ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -27,10 +27,10 @@
           <mxGeometry x="374" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-2" value="线程1&lt;br&gt;（任务1）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-3" value="线程2&lt;br&gt;（任务2）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-4" value="锁1&lt;br&gt;（任务上下文1）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="215" width="50" height="50" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="705" y="460" />
-              <mxPoint x="280" y="460" />
+              <mxPoint x="240" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,10 +67,10 @@
           <mxGeometry x="695" y="137" width="20" height="290" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-11" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_SiXs5mkcGYst8uzlgKZ-12" value="线程n&lt;br&gt;（任务n）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="347" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="347" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
